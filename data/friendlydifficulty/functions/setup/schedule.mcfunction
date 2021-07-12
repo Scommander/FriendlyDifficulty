@@ -1,0 +1,1 @@
+schedule function friendlydifficulty:setup/on_reload 20t
